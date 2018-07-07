@@ -7,6 +7,9 @@ cp -R ~/.harmattan-assets ./
 
 # sublime settings
 cp -R ~/.config/sublime-text-3/Packages/User .config/sublime-text-3/Packages
+rm -rf .config/sublime-text-3/Packages/User/Package\ Control.cache
+rm -rf .config/sublime-text-3/Packages/User/Package\ Control.last-run
+
 
 # dconf
 cp -R ~/.config/dconf .config/
