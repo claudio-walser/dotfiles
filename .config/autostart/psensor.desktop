@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/psensor
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=psensor
+Comment=
